@@ -1,0 +1,10 @@
+#landing {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+landing > h1, h2 {
+    align-items: center;
+    justify-content: center;
+}
